@@ -1,2 +1,2 @@
 # classification-rockpaperscissors
-Klasfikasi Gunting Batu Kertas 
+Submission Pengenalan Machine Learning: Klasfikasi Gunting Batu Kertas 
